@@ -1,7 +1,10 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.21)  5 MAR 2019 14:35
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (MiKTeX 2.9.6840 64-bit) (preloaded format=pdflatex 2018.10.21)  14 MAR 2019 19:32
 entering extended mode
-**"D:/aUNNC Y3-1/GroupProject/FinalReportDocuments/WhatAchieved.tex"
-("D:/aUNNC Y3-1/GroupProject/FinalReportDocuments/WhatAchieved.tex"
+**"D:/aUNNC Y3-1/GroupProject/FinalReportDocuments/grpFinalReport/WhatAchieved.
+tex"
+
+("D:/aUNNC Y3-1/GroupProject/FinalReportDocuments/grpFinalReport/WhatAchieved.t
+ex"
 LaTeX2e <2018-04-01> patch level 5
 (F:\MiKTeX\tex\latex\base\report.cls
 Document Class: report 2014/09/29 v1.4h Standard LaTeX document class
@@ -64,42 +67,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--26
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 32--33
+Underfull \hbox (badness 10000) in paragraph at lines 33--34
 
  []
 
 [2]
-Underfull \hbox (badness 10000) in paragraph at lines 35--36
+Underfull \hbox (badness 10000) in paragraph at lines 36--37
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 37--38
+Underfull \hbox (badness 10000) in paragraph at lines 38--39
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 39--41
+Underfull \hbox (badness 10000) in paragraph at lines 40--42
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 42--43
+Underfull \hbox (badness 10000) in paragraph at lines 43--44
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--47
 
  []
 
 [3] [4] (WhatAchieved.aux) ) 
 Here is how much of TeX's memory you used:
  253 strings out of 492970
- 3068 string characters out of 3143816
+ 3173 string characters out of 3143816
  63473 words of memory out of 3000000
  4203 multiletter control sequences out of 15000+200000
  5755 words of font info for 21 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 22i,4n,19p,569b,111s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 22i,4n,19p,586b,111s stack positions out of 5000i,500n,10000p,200000b,50000s
 <F:/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pf
 b><F:/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb>
-Output written on WhatAchieved.pdf (4 pages, 39173 bytes).
+Output written on WhatAchieved.pdf (4 pages, 40196 bytes).
 PDF statistics:
  23 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
